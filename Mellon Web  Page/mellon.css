@@ -1,0 +1,64 @@
+h1{
+	color:blue;
+	text-align:center;
+	text-shadow:3px 2px red;
+	text-transform:uppercase;
+	font-family:algerian;
+	font-size:100px;
+}
+
+body{
+	background-color:pink;
+}
+.first{
+	font-weight:bold;
+	color:#f4f4f9;
+	font-size:30px;
+}
+.two{
+	text-decoration:overline;
+	color:blue;
+	font-size:50px;
+	font-family:algerian;
+}
+#social{
+	background-color:green;
+}
+#m{
+	background-color:red;
+	font-size:50px;
+}
+img{
+	width:500px;
+	height:300px;
+}
+div{
+	background-color:white;
+	color:red;
+	font-size:50px;
+	text-align:center;
+}
+ul{
+	color:#f4f4f4;
+	text-transform:lowercase;
+	font-size:30px;
+}
+h3{
+	color:orange;
+	background-color:;
+}
+.fa-twitter{
+	background-color:red;
+	font-text:100px;
+	font-color:blue;
+}
+
+	
+
+
+
+
+
+
+
+
